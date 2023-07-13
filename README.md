@@ -16,7 +16,7 @@ Our ambitious endeavor begins with the fusion of AI and blockchain technologies.
 
 ## Soul Bound Tokens: Unleashing the Power of Non-Transferable Non-Fungible Tokens
 
-One of the remarkable innovations introduced by BNB Soul Box is the concept of Soul Bound Tokens. These tokens represent a new frontier in digital identity verification, enabling secure wallet interactions through a GNFS or FNF-G (Governmental Non-Fungible Signature). The implementation of this cutting-edge approach offers an inviting sandbox for governmental organizations to participate, validating contracts, approving NFT projects, and much more.
+One of the remarkable innovations introduced by BNB Soul Box is the concept of Soul Bound Tokens. These tokens represent a new frontier in digital identity verification, enabling secure wallet interactions through a GNFS or FGNT (Governmental Non-Fungible Signature). The implementation of this cutting-edge approach offers an inviting sandbox for governmental organizations to participate, validating contracts, approving NFT projects, and much more.
 
 ## The Chatbot Security Framework: Ensuring Reliability and Trust
 
