@@ -1,4 +1,5 @@
 :fireworks: 
+[FINTECH 3.0](/FINTECH3.png)
 # BNB Soul Box: Unlocking the Future of AI Chatbots and Soul Bound Tokens
 
 
